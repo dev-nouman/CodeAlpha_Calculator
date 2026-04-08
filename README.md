@@ -23,7 +23,7 @@ CA-Calculator is a responsive web calculator built with HTML, CSS, and JavaScrip
 4. Use `C` to clear the display or `⌫` to delete the last digit.
 
 ## Live Demo
-[dev-nouman.github.io/CodeAlpha_Calculator](URL)
+dev-nouman.github.io/CodeAlpha_Calculator
 
 ## License
 This project is open-source and free to use.
